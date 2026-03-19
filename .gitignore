@@ -2,3 +2,7 @@
 
 flowproxy_venv
 example.yml
+secrets.txt
+
+flowproxy.egg-info
+dist

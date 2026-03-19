@@ -1,0 +1,6 @@
+PyYAML>=6.0
+pydantic>=2.0
+typer[all]
+uvicorn
+fastapi
+httpx
